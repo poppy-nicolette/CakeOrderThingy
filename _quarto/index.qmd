@@ -1,0 +1,36 @@
+---
+title: "Welcome to the Cake Order Thingy!"
+author: "mom&kid"
+format: html
+editor: visual
+---
+
+# Welcome to mom&kid's Cake Order Thingy!
+
+## Order your cake now! 
+
+![](images/amethyst%20beach.gif)
+
+What kind of cake base would you like?
+
+Choices are:
+
+-   Victoria sponge
+
+-   Devils' food
+
+-   chocolate
+
+-   yellow
+
+```{}
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
